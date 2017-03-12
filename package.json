@@ -1,0 +1,15 @@
+{
+  "name": "moz-context-search",
+  "title": "moz-context-search",
+  "version": "0.0.1",
+  "id": "moz-context-search@addons.mozilla.org",
+  "description": "provides an extended context search menu that includes all of your search engines, as well as any keyword bookmarks which are tagged as \"search\"",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "jpm": "^1.3.0"
+  },
+  "scripts": {
+    "addon": "jpm --no-copy --profile dev run"
+  }
+}
