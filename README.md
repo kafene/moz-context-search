@@ -1,2 +1,2 @@
 # moz-context-search
-A context search menu for Firefox
+This Firefox addon provides an extended context search menu that includes all of your search engines, as well as any keyword bookmarks which are tagged as "search"
